@@ -28,6 +28,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/roast2"
         app:layout_constraintBottom_toTopOf="@+id/editTextDuckId"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
